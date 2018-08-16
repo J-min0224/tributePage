@@ -1,0 +1,42 @@
+html,body{
+  font-family: Times, Times New Roman, Helvetica, Arial, Garamond, Verdana, Courier New;
+  text-align: center;
+  color: white;
+  min-width:260px;
+  background-color:#222;
+}
+#main{
+  margin:45px auto;
+  padding:0px;
+  border:20px solid;
+  border-radius:30px; 
+  background:#444
+}
+img{
+  max-width:100%;
+  display:inherit;
+  height:auto;
+  margin:auto;
+}
+#img-caption{
+  margin:5px;
+}
+#headline{
+  text-align: center;
+  font-size: 23px;
+  font-style:italic;
+}
+ul{
+   max-width:5000px;
+   text-align: center;
+   margin:10px;
+   font-size:14px;
+}
+blockquote{
+  font-size: 17px;
+  font-style: italic;
+  text-align: auto;
+}
+#tribute-link{
+  color:skyblue;
+}
